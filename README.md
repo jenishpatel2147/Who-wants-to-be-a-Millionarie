@@ -1,5 +1,4 @@
 # Who wants to be a Millionaire
-
 ICS3U1 Project, creating the famous game on VB
 
 - Used Visual Basic and other libraries to created an exact replica of the game Who Wants to Be a Millionarie
